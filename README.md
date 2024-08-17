@@ -8,7 +8,7 @@ Follow these steps to get started:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/audio-speech-recognition-atoz.git
+   git clone https://github.com/sanikamal/audio-speech-recognition-atoz.git
    cd audio-speech-recognition-atoz
    ```
 
@@ -27,6 +27,7 @@ Follow these steps to get started:
 | **Title**| **Description**| **Library/Technology**| **Link**| **Article/Blog Link**|
 |----------|--------------------|---------------------|----------------|-------------|
 | Analysis of Audio File | Read an audio file using Librosa, visualize the audio (waveform, spectrogram), interchange the axis, and write to files. | `Librosa`, `soundfie`,`Matplotlib`| [Link](notebooks/analysis-audio-file.ipynb) |--|
+| Digitization and Recording of Speech | Record speech, digitize it, and use the `recognize_google` function from the `speech_recognition` library to convert audio to text. | `SpeechRecognition` | [Link](notebooks/Digitization-Recording-Speech.ipynb) | --- |
 
 
 ## Contributing 🤝
